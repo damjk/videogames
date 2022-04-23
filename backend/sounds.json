@@ -1,0 +1,272 @@
+[
+  {
+    "order": 1,
+    "id": "darkestDungeonJester",
+    "game": "Darkest DungeonÂ®",
+    "answers": ["darkest dungeon"]
+  },
+  {
+    "order": 2,
+    "id": "apbreloaded",
+    "game": "APB Reloaded",
+    "answers": ["apb reloaded","APB Reloaded"]
+  },
+  {
+    "order": 3,
+    "id": "deadCell",
+    "game": "Dead Cells",
+    "answers": ["Dead Cells","dead cells"]
+  },
+
+{
+    "order": 4,
+    "id": "sekiro",
+    "game": "Sekiro: Shadows Die Twice",
+    "answers": ["sekiro"]
+  },
+  
+  {
+    "order": 5,
+    "id": "rust",
+    "game": "Rust",
+    "answers": ["rust"]
+  },
+  
+  {
+    "order": 6,
+    "id": "virtuaTenis",
+    "game": "Virtua Tennis",
+    "answers": ["Virtua Tennis","virtua tennis"]
+  },
+
+{
+    "order": 7,
+    "id": "forhonor",
+    "game": "For Honor",
+    "answers": ["for honor"]
+  },
+  
+ 
+  
+    {
+    "order": 8,
+    "id": "amongo",
+    "game": "AMONGO",
+    "answers": ["amongo", "Among us"]
+  },
+  
+  {
+    "order": 9,
+    "id": "defjam",
+    "game": "Def Jam: Fight For NY",
+    "answers": ["defjam", "Def Jam","def jam"]
+  },
+  
+   {
+    "order": 10,
+    "id": "finalFantasy",
+    "game": "Final Fantasy VII",
+    "answers": ["Final Fantasy VII", "Final Fantasy 7","final fantasy 7"]
+  }
+  ,
+  
+   {
+    "order": 11,
+    "id": "minecraft",
+    "game": "Minecraft",
+    "answers": ["minecraft"]
+  },
+  
+   {
+    "order": 12,
+    "id": "undertale",
+    "game": "Undertale",
+    "answers": ["undertale"]
+  },
+  
+  {
+    "order": 13,
+    "id": "bioshock",
+    "game": "BioShock",
+    "answers": ["bioshock","BioShock"]
+  }
+  
+  ,
+  
+  {
+    "order": 14,
+    "id": "Borderlands2",
+    "game": "Borderlands 2",
+    "answers": ["Borderlands 2","borderlands","borderlands 2"]
+  },
+  
+   
+
+  
+  
+   {
+    "order": 15,
+    "id": "bully",
+    "game": "Bully",
+    "answers": ["bully"]
+  },
+  
+  {
+    "order": 16,
+    "id": "castleCrasher",
+    "game": "Castle Crashers®",
+    "answers": ["castle crashers"]
+  },
+  
+   
+  
+   {
+    "order": 17,
+    "id": "COD6",
+    "game": "Call of duty Modern Warfare 2",
+    "answers": ["COD6","Call of duty Modern Warfare 2","call of duty modern warfare 2"]
+ 
+  },
+  
+   {
+    "order": 18,
+    "id": "cuphead",
+    "game": "Cuphead",
+    "answers": ["cuphead"]
+ 
+  },
+  
+  {
+    "order": 19,
+    "id": "halflife",
+    "game": "Half-Life",
+    "answers": ["half life"]
+ 
+  },
+  
+   {
+    "order": 20,
+    "id": "halo",
+    "game": "Halo",
+    "answers": ["halo"]
+ 
+  },
+  {
+    "order": 21,
+    "id": "heartstone",
+    "game": "Hearthstone: Heroes of Warcraft",
+    "answers": ["Hearthstone","hearthstone"]
+ 
+  },
+  
+  {
+    "order": 22,
+    "id": "killerInstict",
+    "game": "Killer Instinct",
+    "answers": ["Killer Instinct","killer instinct"]
+ 
+  },
+  
+  {
+    "order": 23,
+    "id": "pubg",
+    "game": "PlayerUnknown's Battlegrounds",
+    "answers": ["pugb","PUBG"]
+ 
+  },
+  
+  {
+    "order": 24,
+    "id": "residentevil4",
+    "game": "Resident Evil 4",
+    "answers": ["Resident Evil 4","resident evil 4"]
+ 
+  },
+  
+   {
+    "order": 25,
+    "id": "skirym",
+    "game": "The Elder Scrolls V: Skyrim",
+    "answers": ["Skyrim","skyrim"]
+ 
+  },
+  
+  {
+    "order": 26,
+    "id": "streetfighter2",
+    "game": "Street Fighter II",
+    "answers": ["Street Fighter 2","street fighter 2"]
+ 
+  },
+  
+   {
+    "order": 27,
+    "id": "supersmashbros",
+    "game": "Super Smash Bros.",
+    "answers": ["Super Smash Bros","super smash bros."]
+ 
+  },
+  
+   {
+    "order": 28,
+    "id": "tf2",
+    "game": "Team Fortress 2",
+    "answers": ["Team Fortress 2","tf2"]
+ 
+  },
+  
+  {
+    "order": 29,
+    "id": "undertale",
+    "game": "Undertale",
+    "answers": ["undertale"]
+ 
+  },
+  
+   {
+    "order": 30,
+    "id": "Warcraft II Tides of Darkness",
+    "game": "Warcraft II Tides of Darkness",
+    "answers": ["Warcraft II Tides of Darkness","Warcraft Tides of Darkness","Warcraft 2 Tides of Darkness"]
+ 
+  },
+  
+   {
+    "order": 31,
+    "id": "WOW",
+    "game": "World of Warcraft",
+    "answers": ["World of Warcraft"]
+ 
+  },
+  
+   {
+    "order": 32,
+    "id": "WOW",
+    "game": "World of Warcraft",
+    "answers": ["World of Warcraft"]
+ 
+  },
+  
+   {
+    "order": 33,
+    "id": "halflife2",
+    "game": "Half-Life 2",
+    "answers": ["half life 2"]
+ 
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+]
