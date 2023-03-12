@@ -1,7 +1,7 @@
 {
-  "name": "vgm-quiz-backend",
+  "name": "russkangames",
   "version": "1.0.0",
-  "description": "",
+  "description": "asdf",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
