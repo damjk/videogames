@@ -16,7 +16,18 @@
     "id": "polaco",
     "game": "Polaco - Deja de llorar",
     "answers": ["polaco","deja de llorar"]
+  },
+
+ {
+    "order": 4,
+    "id": "olvidala",
+    "game": "Olvídala - Los Palmeras",
+    "answers": ["olvidala","los palmeras"]
   }
+  
+  
+  
+  
   
   
   
